@@ -1,0 +1,19 @@
+{
+    "name": "dimakozachkov/qiwi-simple-package",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Dmitry Kozachkov",
+            "email": "dimakozachkov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dimakozachkov\\QiwiSimplePackage\\": "",
+            "Dimakozachkov\\QiwiSimplePackage\\Helpers\\": "Helpers/"
+        }
+    }
+}
